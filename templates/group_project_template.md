@@ -1,37 +1,31 @@
-PROJECT TITLE
+Hotel chain effect
 =============
 
 # OVERVIEW
-In this section describe the background for your application or analysis.  Be detailed enough to provide the 
+Bad weather reduces travel, which then reduces overnight lodging. That’s not good news if you’re in the hotel business. However, Red Roof Inn turned this trend on its head. The hotel chain recognized that cancelled flights leave travelers in a bind and in need of a place to sleep overnight. The company sourced freely available weather and flight cancellation information, organized by combinations of hotel and airport locations, and built an algorithm which factored weather severity, travel conditions, time of the day and cancellation rates by airport and airline among other variables. With its big data insights, and recognition that travelers will be using mobile devices for this use case, the company used Search, PPC and SoLoMo mobile campaigns to deliver targeted mobile ads to stranded travelers and make it easy for them to book a nearby hotel.
 
-- motivation,
-- background literature,
-- basic problem that is being solved,
-- expected improvement your application will achieve, OR
-- expected outcomes of your analyis.
+This big data payback is compelling. Flight cancellations average 1-3% daily, which translates into 150 to 500 cancelled flights or around 25,000 to 90,000 stranded passengers each day. With its big data and geo-based mobile marketing campaigns Red Roof Inn achieved a 10% business increase from 2013 to 2014.
+
+
 
 # DATA
-In this section describe the data being used in your application or analysis.  You should include all details of:
-
-- the source of the data and where to obtain it,
-- the API (if any) used to obtain the data (e.g. Twitter API)
-- the original form of the data (web, csv, etc.),
-- the languages, tools and libraries used to process the data (web scraping tools, Python, CSV libraries, etc.),
-- any subsetting of the data used in your project if the full dataset was not used.
-
-All data must be openly available (or obtained from public/open systems).  You may use an API to obtain data if the API is free and/or the account to access it is free.
+Hotel chain data can be available in the link http://www.tophotelprojects.com/en/our-products/tophotelchains-global-classic
 
 
 # RESEARCH QUESTIONS
-Describe the core questions you will be pursuing within the project.  These questions will lead the reader to your interest in the data and provide the bridge between your motivation and analysis.  
+How do the business travellers choose hotels? .
+Why the Brand? 
+Why the “mid-scale” hotels?
+Why qualitative?
 
 
 # MODELS AND ANALYSIS
 
 What models did you use to process your data and perform the analysis of your research questions?  
+Information Transfer Model
 
 Describe your methods and how you applied your models to the data.  
-
+The methods we are going to implement in the data by collecting information that aquired from the clients and on the basis of percentage of the customer answer we achieve the goals.
 
 # CODE AND APPLICATION
 
@@ -61,9 +55,9 @@ These tables show  examples of the data that should go into each column and row.
 
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
-| MEMBER NAME | What will they do in the project?  What skills do they bring?  What interests will they explore? | Fill the contributions in when the deliverables have been completed and you have results to report.  These can be summarized, but the intent is that this will allow an easy way to see who did what. |
-| MEMBER #2 NAME | -- | -- |
-| MEMBER # _N_ NAME | -- | -- |
+| Ramakrishna Reddy Goulla  | Provides the information about the hotel chain industry,and get information How do the business travellers choose hotels? | Fill the contributions in when the deliverables have been completed and you have results to report.  These can be summarized, but the intent is that this will allow an easy way to see who did what. |
+| Sai Prasad Chakravartulu|Deals with the code and get information how brands will influence the customers? | -- |
+| Venkata Rajashekar Mothe|Deals with documentation and get information about midscale hotels and qualitiness | -- |
 
 ## DELIVERABLES AND CHECKPOINTS
 
@@ -71,6 +65,6 @@ The deliverable and checkpoints will be iteratively completed.  At the end of th
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|WHEN | What will be delivered?  These should be small enough tasks to complete in the time given and large enough to represent some complexity. | Who will delivery this?    | WHAT WERE THE RESULTS?  FILL THIS IN AFTER THE CHECKPOINT HAS PASSED! |
+|2/15/2016| Proposal of the project. | Ramakrishna Reddy Goulla,Sai prasad chakravarthulu, Venkata Rajashekar Mothe   | WHAT WERE THE RESULTS?  FILL THIS IN AFTER THE CHECKPOINT HAS PASSED! |
 |     ...          | -- | --                    |  -- |
 
